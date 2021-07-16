@@ -19,7 +19,7 @@
     ],
     "rules": {
         "linebreak-style": 0,
-        "react/destructuring-assignment": [],
+        "react/destructuring-assignment": 0,
         "react/jsx-filename-extension": [
             1,
             {
